@@ -28,7 +28,7 @@
         "Delay (sec)": "600"
     },
     "Auto WD": {
-        "Status": "OFF",
+        "Status": "ON",
         "Trigger Balance": "5",
         "Amount WD": "1.5",
         "Tip Username": "muhammad2202",
